@@ -5,7 +5,7 @@
 [预览](https://yongheng2016.github.io/requireJS/)
 
 r.js打包、优化
-+ tools
++tools
   r.js
   build.js  //配置文件
 ```
