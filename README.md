@@ -6,7 +6,7 @@
 
 r.js打包、优化  
 +tools  
-  r.js   
+   r.js   
   build.js  //配置文件  
 ```
 //在当前文件下运行
